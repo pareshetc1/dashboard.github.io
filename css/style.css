@@ -1,0 +1,54 @@
+.bg-info, .btn-info{
+  background: linear-gradient(45deg,darkslategray,cornflowerblue);
+}
+.bg-primary, .btn-primary {
+  background: linear-gradient(45deg,darkslategray,blueviolet);
+}
+.bg-secondary, .btn-secondary{
+  background: linear-gradient(45deg,darkslategray,purple);
+}
+.bg-success, .btn-success{
+  background: linear-gradient(45deg,darkslategray,limegreen);
+}
+.bg-warning, .btn-warning{
+  background: linear-gradient(45deg,darkslategray,orange);
+}
+.bg-danger, .btn-danger{
+  background: linear-gradient(45deg,darkslategray,red );
+}
+.bg-dark, .btn-dark{
+  background: linear-gradient(45deg,black,darkslategray);
+}
+/* .bg-light, .btn-light{
+  background: linear-gradient(45deg,gray,lightgray);
+} */
+
+.dropdown-item:hover {
+  background: linear-gradient(45deg,darkslategray,black);
+  color: white !important; 
+}
+.bg-teal, .btn-teal {
+  background-color: #005555;
+}
+.text-teal {
+  color: #005555;
+}
+.bg-light-blue {
+  background-color:#c5b1db !important;
+}
+.bg-light-green {
+  background-color:#c4e9c4 !important;
+}
+.bg-light-orange {
+  background-color:#e6cb9b !important;
+}
+.p-card {
+  border-radius: 10px;
+  box-shadow: 0 0 10px black;
+}
+.p-image {
+  border-radius: 10px 10px 0 0;
+}
+.p-footer {
+  border-radius: 0 0 10px 10px !important;
+}
